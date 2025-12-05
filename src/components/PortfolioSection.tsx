@@ -12,7 +12,7 @@ const projects = [
     category: "Next.js",
     tags: ["Next.js", "TypeScript", "CSS"],
     liveUrl: "https://classquiz.tn/",
-    githubUrl: "#",
+    githubUrl: "https://classquiz.tn/",
   },
   {
     title: "ClassQuiz Parent Espace",
@@ -21,7 +21,7 @@ const projects = [
     category: "ReactJs",
     tags: ["React", "TypeScript", "CSS"],
     liveUrl: "http://parent.classquiz.tn/",
-    githubUrl: "#",
+    githubUrl: "http://parent.classquiz.tn/",
   },
   {
     title: "Yoga Landing Page",

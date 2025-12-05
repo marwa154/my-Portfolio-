@@ -21,14 +21,16 @@ const AboutSection = () => {
     <section id="about" className="py-20 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* Left Content - Image & Stats */}
-          <div className="relative">
+      
+          <div className="flex justify-center bg">
             <div className="flex aspect-[4/5] rounded-2xl overflow-hidden shadow-card">
-              <div className="w-full h-full bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+              <div className="w-full  bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
                 <div className="text-center">
-                  <span className="text-8xl font-display font-bold text-primary/20">
-                    About
-                  </span>
+                  <img
+                    src="images/marwa saidi2.png"
+                    alt="About Me"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
               </div>
             </div>
